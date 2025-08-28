@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(27, 47, 50);
+}
+
+#main{
+    background-image: url("./bg.png");
+    object-fit: cover;
+    width: 50%;
+}
+
+#top{
+    color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+
+.shape{
+    margin: 10px 10px;
+    background-color: rgb(182, 182, 182);
+    height: 10px;
+    width: 60px;
+    border-radius: 50px;
+}
+
+.para{
+    font-weight: lighter;
+}
+
+#first{
+    background-color: rgba(5, 92, 5, 0.572);
+}
+
+#button{
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: white;
+    padding: 20px 260px 20px 260px;
+    border-radius: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: black;
+}
+
+.parent{
+    display: flex;
+}

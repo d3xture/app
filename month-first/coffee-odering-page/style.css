@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    margin: 40px 20px;
+    background-color: bisque;
+    padding: 20px 10px 20px 270px;
+}
+
+#nam{
+    padding: 20px 50px 20px 50px;
+    background-color: rgba(219, 215, 215, 0.922);
+}
+
+.card{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(254, 200, 134);
+    margin: 30px 30px;
+}
+
+#card-id{
+    border-radius: 30px;
+    background-color: rgb(199, 199, 199);
+}
