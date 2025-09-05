@@ -1,1 +1,3 @@
-document.getElementById("paragraph-id").textContent = "Ariel"
+let test = document.getElementById("paragraph-id")
+
+test.textContent = "Hello World"
